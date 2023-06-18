@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letmejustdothis&label=Profile%20views&color=0e75b6&style=flat" alt="letmejustdothis" /> </p>
 
-- 🔭 I’m currently working on **AntiP2W meteor Addon**
+- 🔭 I’m currently working on: **AntiP2W meteor Addon**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning: **Internal Game-Hacking**
 
-- 📫 How to reach me **NOT**
+- 📫 How to reach me: **NOT**
 
-- ⚡ Fun fact **scratch is the best language LMAO**
+- ⚡ Fun fact: **scratch = best coding language LMAO**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
